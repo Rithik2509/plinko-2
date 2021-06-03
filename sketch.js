@@ -104,7 +104,3 @@ function mousePressed(){
     particle = new Particle(mouseX,10,10,10);
    
   }}
- 
-  // ok perfect any doubts shimona ?
-  /// no maam
-  // okay so you can submit the project
