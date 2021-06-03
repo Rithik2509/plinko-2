@@ -26,9 +26,9 @@ class Particle {
         ellipse(0, 0, this.r,this.r);
         pop();
     }
-    /*score(){
+    score(){
         if (this.Visiblity < 0 && this.Visiblity > -105){
           score++;
         }
-      }*/
+      }
 };
